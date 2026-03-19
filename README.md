@@ -157,21 +157,20 @@ const developer = {
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=sidhant0802&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&ring_color=00d9ff"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=sidhant0802&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&ring_color=00d9ff&cache_seconds=1800"/>
 &nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhant0802&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=8"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhant0802&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=8&cache_seconds=1800"/>
 
 <br/><br/>
 
-<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=sidhant0802&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6e6e&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=aaaaaa"/>
+<img width="68%" src="https://streak-stats.demolab.com?user=sidhant0802&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6e6e&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=aaaaaa"/>
+
+</div>
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════ -->
-<!--           CONTRIBUTION GRAPH               -->
-<!-- ══════════════════════════════════════════ -->
 
 ## 🔥 Contribution Graph
 
@@ -201,7 +200,7 @@ const developer = {
 
 <div align="center">
 
-<a href="https://github.com/sidhant0802/DeepChat">
+<a href="https://github.com/sidhant0802/DeepChat.">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidhant0802&repo=DeepChat&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
 </a>
 &nbsp;&nbsp;
