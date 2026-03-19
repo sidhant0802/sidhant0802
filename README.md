@@ -251,6 +251,6 @@ Travel accommodation platform for discovering hostels with category-based search
 
 ## 🐍 Contribution Snake
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/sidhant0802/sidhant0802/output/github-contribution-grid-snake-dark.svg" />
-</p>
+</p> -->
