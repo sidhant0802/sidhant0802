@@ -1,14 +1,8 @@
 <div align="center">
 
-<!-- ══════════════════════════════════════════ -->
-<!--              HERO HEADER                  -->
-<!-- ══════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Sidhant%20Nirupam&fontSize=60&fontColor=00d9ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Competitive%20Programmer%20%E2%80%A2%20AI%2FML%20Explorer&descSize=15&descAlignY=60&descColor=ffffff"/>
 
-<!-- ══════════════════════════════════════════ -->
-<!--           ANIMATED TYPING TEXT            -->
-<!-- ══════════════════════════════════════════ -->
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&random=false&width=750&lines=%F0%9F%9A%80+Building+things+that+matter;%F0%9F%A7%A0+1800%2B+Problems+Solved;%F0%9F%8F%86+ICPC+2025+%7C+Rank+384+%7C+Team+XNOR;%E2%9A%A1+CodeChef+Starters+188+%7C+Rank+42+%2F+14K%2B;%F0%9F%8E%AF+AlgoUniversity+Fellowship+%7C+Top+200+%2F+2.5L%2B;%E2%9C%A8+Build.+Break.+Learn.+Repeat." alt="Typing SVG" />
@@ -16,7 +10,6 @@
 
 <br/>
 
-<!-- Animated status badges -->
 <img src="https://komarev.com/ghpvc/?username=sidhant0802&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" alt="views"/>
 &nbsp;
 <a href="https://github.com/sidhant0802?tab=followers">
@@ -30,10 +23,6 @@
 </div>
 
 ---
-
-<!-- ══════════════════════════════════════════ -->
-<!--        ABOUT ME + HACKER GIF HERO         -->
-<!-- ══════════════════════════════════════════ -->
 
 <table>
 <tr>
@@ -81,9 +70,6 @@ const developer = {
 
 ---
 
-<!-- ══════════════════════════════════════════ -->
-<!--              TECH ARSENAL                  -->
-<!-- ══════════════════════════════════════════ -->
 
 ## ⚡ Tech Arsenal
 
@@ -120,9 +106,6 @@ const developer = {
 
 ---
 
-<!-- ══════════════════════════════════════════ -->
-<!--         COMPETITIVE PROGRAMMING           -->
-<!-- ══════════════════════════════════════════ -->
 
 ## 🧠 Competitive Programming
 
@@ -151,9 +134,6 @@ const developer = {
 
 ---
 
-<!-- ══════════════════════════════════════════ -->
-<!--              ACHIEVEMENTS                  -->
-<!-- ══════════════════════════════════════════ -->
 
 ## 🏆 Achievements
 
@@ -172,9 +152,6 @@ const developer = {
 
 ---
 
-<!-- ══════════════════════════════════════════ -->
-<!--              GITHUB STATS                  -->
-<!-- ══════════════════════════════════════════ -->
 
 ## 📊 GitHub Stats
 
@@ -204,9 +181,6 @@ const developer = {
 
 ---
 
-<!-- ══════════════════════════════════════════ -->
-<!--           CONTRIBUTION SNAKE               -->
-<!-- ══════════════════════════════════════════ -->
 
 ## 🐍 Contribution Snake
 
@@ -218,25 +192,10 @@ const developer = {
   </picture>
 </div>
 
-> ⚙️ **Snake not showing?** Add `snake.yml` to `.github/workflows/` → go to **Actions** tab → click **Generate Snake Animation** → **Run workflow**. Also enable **Read & write permissions** under **Settings → Actions → General**.
 
 ---
 
-<!-- ══════════════════════════════════════════ -->
-<!--              TROPHIES                      -->
-<!-- ══════════════════════════════════════════ -->
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-  <img width="96%" src="https://github-profile-trophy.vercel.app/?username=sidhant0802&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8"/>
-</div>
-
----
-
-<!-- ══════════════════════════════════════════ -->
-<!--            FEATURED PROJECTS               -->
-<!-- ══════════════════════════════════════════ -->
 
 ## 🚀 Featured Projects
 
@@ -285,9 +244,6 @@ A travel accommodation platform for discovering hostels with category-based sear
 
 ---
 
-<!-- ══════════════════════════════════════════ -->
-<!--            CONNECT WITH ME                 -->
-<!-- ══════════════════════════════════════════ -->
 
 ## 🌐 Connect With Me
 
@@ -321,9 +277,6 @@ A travel accommodation platform for discovering hostels with category-based sear
 
 ---
 
-<!-- ══════════════════════════════════════════ -->
-<!--            QUOTE + FOOTER                  -->
-<!-- ══════════════════════════════════════════ -->
 
 <div align="center">
 
