@@ -249,34 +249,8 @@ Travel accommodation platform for discovering hostels with category-based search
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
-<!--
-==========================================================
-  🐍 SNAKE ANIMATION SETUP
-  Create this file in your repo: .github/workflows/snake.yml
-==========================================================
+## 🐍 Contribution Snake
 
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-==========================================================
--->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sidhant0802/sidhant0802/output/github-contribution-grid-snake-dark.svg" />
+</p>
