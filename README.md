@@ -201,7 +201,7 @@ const developer = {
 <div align="center">
 
 <a href="https://github.com/sidhant0802/DeepChat.">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidhant0802&repo=DeepChat&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidhant0802&repo=DeepChat.&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/sidhant0802/TripNext">
