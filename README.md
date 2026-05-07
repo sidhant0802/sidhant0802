@@ -5,7 +5,7 @@
 
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&random=false&width=750&lines=%F0%9F%9A%80+Building+things+that+matter;%F0%9F%A7%A0+1800%2B+Problems+Solved;%F0%9F%8F%86+ICPC+2025+%7C+Rank+384+%7C+Team+XNOR;%E2%9A%A1+CodeChef+Starters+188+%7C+Rank+42+%2F+14K%2B;%F0%9F%8E%AF+AlgoUniversity+Fellowship+%7C+Top+200+%2F+2.5L%2B;%E2%9C%A8+Build.+Break.+Learn.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&random=false&width=750&lines=%F0%9F%9A%80+Building+things+that+matter;%F0%9F%A7%A0+2000%2B+Problems+Solved;%F0%9F%8F%86+ICPC+2025+%7C+Rank+384+%7C+Team+XNOR;%E2%9A%A1+CodeChef+Starters+188+%7C+Rank+42+%2F+14K%2B;%F0%9F%8E%AF+AlgoUniversity+Fellowship+%7C+Top+200+%2F+2.5L%2B;%E2%9C%A8+Build.+Break.+Learn.+Repeat." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -42,9 +42,9 @@ const developer = {
   ],
 
   platforms: [
-    "Codeforces → Sidhant08",
-    "LeetCode  → sidhant_8",
-    "CodeChef  → sidhant_8",
+    "Codeforces → Sidhant08  (Specialist, 1588)",
+    "LeetCode  → sidhant_8  (Guardian,  2163)",
+    "CodeChef  → sidhant_8  (4★,        1856)",
   ],
 
   tech:    ["C++", "Python", "React", "Node.js"],
@@ -61,7 +61,7 @@ const developer = {
 <br/>
 
 ![Coding](https://img.shields.io/badge/Currently-Grinding_CP-00d9ff?style=flat-square&labelColor=0d1117)
-![Problems](https://img.shields.io/badge/Solved-1800%2B_Problems-ff6e6e?style=flat-square&labelColor=0d1117)
+![Problems](https://img.shields.io/badge/Solved-2000%2B_Problems-ff6e6e?style=flat-square&labelColor=0d1117)
 
 </td>
 </tr>
@@ -111,20 +111,20 @@ const developer = {
 <div align="center">
 
 <a href="https://codeforces.com/profile/Sidhant08">
-  <img src="https://img.shields.io/badge/Codeforces-Sidhant08-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/Codeforces-Specialist%20%7C%201588-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1a1a2e"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/sidhant_8/">
-  <img src="https://img.shields.io/badge/LeetCode-sidhant__8-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/LeetCode-Guardian%20%7C%202163-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e"/>
 </a>
 &nbsp;
 <a href="https://www.codechef.com/users/sidhant_8">
-  <img src="https://img.shields.io/badge/CodeChef-sidhant__8-brown?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/CodeChef-4%E2%98%85%20%7C%201856-brown?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a2e"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🔥%20Total%20Problems%20Solved-1800%2B-00d9ff?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🔥%20Total%20Problems%20Solved-2000%2B-00d9ff?style=for-the-badge&labelColor=0d1117"/>
 
 <br/>
 <sub><b>LeetCode &nbsp;·&nbsp; Codeforces &nbsp;·&nbsp; CodeChef &nbsp;·&nbsp; GFG &nbsp;·&nbsp; AtCoder</b></sub>
@@ -141,11 +141,15 @@ const developer = {
 | &nbsp; | 🏅 Achievement | 📊 Result |
 |:---:|:---|:---|
 | 🥇 | **ICPC Prelims 2025** — Team: **XNOR** | Rank **384** &nbsp;·&nbsp; Solved **4 problems** |
+| 🌐 | **Google Big Code 2026** | Qualified Round 2 &nbsp;·&nbsp; Top **1500** participants |
 | 📈 | **LeetCode Weekly Contest 474** | Rank **311** / 31,000+ |
 | 🚀 | **LeetCode Weekly Contest 492** | Rank **428** / 42,000+ |
+| 📊 | **LeetCode Weekly Contest 496** | Rank **393** / 39,000+ |
 | ⚡ | **CodeChef Starters 188** (Div. 4) | Rank **42** / 14,000+ |
 | 🎯 | **AlgoUniversity Fellowship 2025** | Top **200** / 2.5 lakh+ applicants |
-| 🧠 | **Total Problems Solved** (All Platforms) | **1800+** and counting |
+| 🏫 | **JEE Advanced 2024** | AIR **5642** / 1.8 lakh+ candidates |
+| 📝 | **JEE Mains 2024** | AIR **5035** / 14 lakh+ candidates |
+| 🧠 | **Total Problems Solved** (All Platforms) | **2000+** and counting |
 
 </div>
 
@@ -199,6 +203,10 @@ const developer = {
 
 <div align="center">
 
+<a href="https://github.com/sidhant0802/CodeJudge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidhant0802&repo=CodeJudge&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
+</a>
+&nbsp;&nbsp;
 <a href="https://github.com/sidhant0802/DeepChat.">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidhant0802&repo=DeepChat.&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
 </a>
@@ -215,6 +223,18 @@ const developer = {
 <tr>
 <td width="50%" valign="top">
 
+**⚖️ CodeJudge**
+
+A full-stack online coding judge with a sandboxed multi-language compiler, 1v1 rating-based coding battles, leaderboard, friend chat, and a rich profile dashboard with activity heatmap.
+
+[![🌐 Live Demo](https://img.shields.io/badge/Live%20Demo-00d9ff?style=for-the-badge&logo=vercel&logoColor=black)](https://codejudge.vercel.app/)
+[![💻 Source](https://img.shields.io/badge/Source%20Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sidhant0802/CodeJudge)
+
+`React` `Node.js` `MongoDB` `AWS EC2` `Socket.IO` `Nginx`
+
+</td>
+<td width="50%" valign="top">
+
 **🤖 DeepChat**
 
 A full-stack AI chat app with authentication, persistent chat history, and a modern ChatGPT-style interface.
@@ -225,6 +245,8 @@ A full-stack AI chat app with authentication, persistent chat history, and a mod
 `React` `Node.js` `MongoDB` `AI/LLM`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **✈️ TripNext**
@@ -237,6 +259,7 @@ A travel accommodation platform for discovering hostels with category-based sear
 `React` `Node.js` `MongoDB` `Express`
 
 </td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
