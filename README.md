@@ -227,7 +227,7 @@ const developer = {
 
 A full-stack online coding judge with a sandboxed multi-language compiler, 1v1 rating-based coding battles, leaderboard, friend chat, and a rich profile dashboard with activity heatmap.
 
-[![🌐 Live Demo](https://img.shields.io/badge/Live%20Demo-00d9ff?style=for-the-badge&logo=vercel&logoColor=black)]([https://codejudge.vercel.app/](http://codejudge.online/homepage/)
+[![🌐 Live Demo](https://img.shields.io/badge/Live%20Demo-00d9ff?style=for-the-badge&logo=vercel&logoColor=black)](http://codejudge.online/homepage/)
 [![💻 Source](https://img.shields.io/badge/Source%20Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sidhant0802/CodeJudge)
 
 `React` `Node.js` `MongoDB` `AWS EC2` `Socket.IO` `Nginx`
